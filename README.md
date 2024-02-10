@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SRINIBAS NAYAK @srinibasnayak23
 - 👀 I’m interested in web development(full stack)
-- 🌱 I’m much more familar with JAVA, HTML, CSS, BootStrap, JavaScript, SQL etc.
+- 🌱 I’m much more familar with JAVA, HTML, CSS, BootStrap, JavaScript,Node,MongoDB, SQL etc.
 - 💞️ I’m looking to collaborate on some coding project,
 - 📫 WhatsApp +91 8118033803 or Mail: srinibasnayak23@gmail.com
 
